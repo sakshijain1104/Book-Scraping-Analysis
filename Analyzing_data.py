@@ -70,4 +70,4 @@ plt.show()
 
 
 # Step 4: Export to Excel
-# book_data.to_excel("Book_Scraping_Analysis/cleaned_books_data.xlsx", index=False)
+book_data.to_excel("Book_Scraping_Analysis/cleaned_books_data.xlsx", index=False)
